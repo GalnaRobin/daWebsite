@@ -1,17 +1,15 @@
 
 
 html {
-    background-color: maroon;
-    color: lightslategray;
+    background-color: lightslategray;
 }
 
 body {
     font-family: sans-serif;
-    color: azure;
     margin: auto;
     max-width: 600px;
     height: 600px;
-    background-color: orange;
+    background-color: azure;
 }
 
 h1 {
@@ -36,22 +34,20 @@ color: darkred;
 color: darkgreen
 }
 
+
 #bob a {
 text-decoration: line-through
 }
 
-#bob two a {
-text-decoration: underline, overline;
+#bob .two a {
+text-decoration: underline overline;
 color: orange;
 }
 
-two {
+.two {
 size: larger;
 }
-
-three {
+.three {
 size: smaller;
 }
-
-
 
